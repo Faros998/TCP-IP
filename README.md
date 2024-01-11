@@ -27,7 +27,7 @@ Sken síťe probíhá 3x za den, nebo je možné zapnou i ruční sken
 
 ## Status OFFLINE
 * aplikace umí na základě zadané IP adresy spočítat, kolik dnů je ve stavu OFFLINE
-* a nebo se může zadat rozsah IP adres pro výpočet OFFLINE dnů
+* nebo se může zadat rozsah IP adres pro výpočet OFFLINE dnů
 
 ## IP kalkulačka
 * dle zadané IP adresy a prefixu vypočítá rozsah sítě
@@ -38,7 +38,7 @@ Sken síťe probíhá 3x za den, nebo je možné zapnou i ruční sken
 ## Login - pro správu uživatelů
 * logování do aplikace
 * vytvoření uživatele - (heslo je hešováno)
-* Reset hesla
+* reset hesla
 
 ## Checkout
 * okamžité zjištění, co se nachází na konkrétní IP adrese
@@ -47,5 +47,5 @@ Sken síťe probíhá 3x za den, nebo je možné zapnou i ruční sken
 * zjištění odezvy IP adresy
 
 ## Periférie
-* Na perifériích jako je tiskárna, kamera, NAS, NVR je možno okamžitě vstoupit do webového rozhraní dané periférie
+* periférie, jako je tiskárna, kamera, NAS, NVR je možno okamžitě vstoupit do webového rozhraní dané periférie
   
