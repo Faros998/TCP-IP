@@ -39,3 +39,13 @@ Sken síťe probíhá 3x za den, nebo je možné zapnou i ruční sken
 * logování do aplikace
 * vytvoření uživatele - (heslo je hešováno)
 * Reset hesla
+
+## Checkout
+* okamžité zjištění, co se nachází na konkrétní IP adrese
+
+## Ping
+* zjištění odezvy IP adresy
+
+## Periférie
+* Na perifériích jako je tiskárna, kamera, NAS, NVR je možno okamžitě vstoupit do webového rozhraní dané periférie
+  
