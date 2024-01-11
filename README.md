@@ -1,6 +1,5 @@
 # Evidence TCP/IP
-Jedná se o webovou aplikaci, která skenuje lokální síť a zjišťuje, jaké zařízení se nachází na konkrétní IP adrese
-Výsledky ukládá do databáze.
+Jedná se o webovou aplikaci, která skenuje lokální síť a zjišťuje, jaké zařízení se nachází na konkrétní IP adrese a výsledky ukládá do databáze.
 Sken síťe probíhá 3x za den, nebo je možné zapnou i ruční sken
 
 ## Tato aplikace není nikde spuštěna na veřejném webhostingu, jelikož její běh je závislý na lokální intranetové síti MV PČR
