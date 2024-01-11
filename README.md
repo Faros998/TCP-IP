@@ -16,5 +16,5 @@ Sken síťe probíhá 3x za den, nebo je možné zapnou i ruční sken
 
 ## Vyhledávání
 * jsou zde dvě vyhledávací okna
-** vyhledávání v evidenci konkrétní lokality
+### vyhledávání v evidenci konkrétní lokality
 ** kompletní vyhledávání v historii a evidenci 
