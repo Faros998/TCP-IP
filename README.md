@@ -31,7 +31,7 @@ Sken síťe probíhá 3x za den, nebo je možné zapnou i ruční sken
 
 ## IP kalkulačka
 * dle zadané IP adresy a prefixu vypočítá rozsah sítě
-* Z toho použitelných IP adres
+* z toho použitelných IP adres
 * bránu
 * masku
 
