@@ -1,0 +1,65 @@
+
+        body{ font: 16px sans-serif; 
+        
+        margin:0px 0px;
+            background-image: linear-gradient(to bottom,  #f0f0f0,#292929);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+          
+        }
+
+        .logo_login {
+            padding: 7%;
+            display: block;
+            width: 20%;
+            margin:0 auto;
+            
+        }
+
+
+        .wrapper{  display: block;
+            width: 20%;
+            margin:0 auto;
+            
+            padding: 5%;
+            font-size: larger;
+            text-align: center;
+            color: whitesmoke;
+            border-radius: 5px;
+
+            border: 1px solid whitesmoke;
+          
+            padding-bottom: 20px;
+            border: 2px solid rgb(255, 255, 255);
+            border-radius: 5px;
+            background-color: rgba(180, 180, 180, 0.222);
+            box-shadow: 5px 10px 24px -3px rgba(0,0,0,0.65);
+              transition: transform 0.3s, box-shadow 0.3s;
+
+        }
+
+        h1{margin-top: 5%;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: whitesmoke;
+      
+        }
+input{
+    
+    font-size: large;
+    border:1px solid #e6dfdd;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.form-group{
+    margin-bottom: 20px;
+    
+}
+
+.btn-primary:hover {
+    cursor: pointer;
+    background-color: #581506;
+    color: whitesmoke;
+    
+   }
+
