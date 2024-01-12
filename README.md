@@ -26,7 +26,7 @@ Sken síťe probíhá 3x za den, nebo je možné zapnou i ruční sken
 # Další funkce
 
 ## Status OFFLINE
-* aplikace umí na základě zadané IP adresy spočítat, kolik dnů je ve stavu OFFLINE
+* aplikace umí na základě zadané IP adresy spočítat, kolik dnů je IP ve stavu OFFLINE
 * nebo se může zadat rozsah IP adres pro výpočet OFFLINE dnů
 
 ## IP kalkulačka
