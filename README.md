@@ -13,7 +13,7 @@ Sken sítě probíhá 3x za den, nebo je možné zapnou i ruční sken
   
 ##  Lokality IP adres
 * Z databáze jsou načtené IP dresy, které jsou pak rozmaskovány pro konkrétní lokality
-* nebo je možné zobtazit celý jeden rozsah IP adres
+* nebo je možné zobrazit celý jeden rozsah IP adres
 * nebo si vyhledat požadovanou lokalitu
 
 ## Vyhledávání
